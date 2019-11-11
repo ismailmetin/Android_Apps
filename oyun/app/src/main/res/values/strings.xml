@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">oyun</string>
+    <string name="im1">im1</string>
+    <string name="im2">im2</string>
+    <string name="im3">im3</string>
+    <string name="im4">im4</string>
+    <string name="im5">im5</string>
+    <string name="im6">im6</string>
+    <string name="im7">im7</string>
+    <string name="im8">im8</string>
+    <string name="Btn1">Aç</string>
+    <string name="Btn2">Aç</string>
+    <string name="textview">TextView</string>
+
+
+</resources>
